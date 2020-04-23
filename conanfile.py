@@ -2,7 +2,7 @@ from conans import ConanFile, tools
 
 class GslliteConan(ConanFile):
     name = "gsl-lite"
-    version = "0.32.0"
+    version = "0.36.0"
     license = "MIT"
     url = "https://github.com/martinmoene/gsl-lite"
     description = "A single-file header-only version of ISO C++ Guideline Support Library (GSL) for C++98, C++11 and later"
